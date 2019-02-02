@@ -1,4 +1,4 @@
-# Advanced-Machine-Learning---HSE
+# Advanced-Machine-Learning-HSE
 This repository contains all projects from Advanced Machine Learning Specialization from Higher School of Economics on Coursera.
 <br>This specialization containts 7 courses:<br>
 #### Course 1 - Introduction to Deep Learning <br>
